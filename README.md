@@ -1,6 +1,6 @@
 # Markerless Inside-Out Tool Tracking for Endoscopic Spine Surgery: A Benchmarking Study and Clinical Dataset
 
-This is the repository that contains source code for the [ESS-IO Project Page](https://peetzha.ess-io.github.io).
+This is the repository that contains source code for the [ESS-IO Project Page](https://peetzha.github.io/ess-io/).
 
 This website is under construction.
 
